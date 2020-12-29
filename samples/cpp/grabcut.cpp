@@ -34,6 +34,7 @@ const Scalar BLUE = Scalar(255,0,0);
 const Scalar LIGHTBLUE = Scalar(255,255,160);
 const Scalar GREEN = Scalar(0,255,0);
 
+
 const int BGD_KEY = EVENT_FLAG_CTRLKEY;
 const int FGD_KEY = EVENT_FLAG_SHIFTKEY;
 
